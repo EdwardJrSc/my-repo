@@ -34,3 +34,6 @@ n this repository, I'm going to place all the related elements that turned me in
 # Books and web used
 
 # Proyects done
+
+# Log
+Dia 1: Conocimiento de tipos de variables, tipos de datos, tipos de operadores.
