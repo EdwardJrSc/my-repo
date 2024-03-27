@@ -4,10 +4,10 @@ n this repository, I'm going to place all the related elements that turned me in
 
 # Schedule and initial resources
 
-| Día de la Semana | Hora de Estudio | Tema | Subtemas Relacionados |
-|-------------------|-----------------|------|-----------------------|
-| Semana 1-2        |                 |      |                       |
-| Lunes             | 18:00 - 19:00   | Fundamentos de JavaScript | Variables, Tipos de Datos, Operadores, Funciones, Estructuras de Control |
+| Día de la Semana | Hora de Estudio | Tema | Subtemas Relacionados | Recursos |
+|-------------------|-----------------|------|-----------------------|---------|
+| Semana 1-2        |                 |      |                       |         |
+| Lunes             | 18:00 - 19:00   | Fundamentos de JavaScript | Variables, Tipos de Datos, Operadores, Funciones, Estructuras de Control | [JS Junior-Mid](https://www.youtube.com/watch?v=xOinGb2MZSk&t=8984s) |
 |                   | 19:00 - 20:00   | Práctica con Ejercicios de JavaScript | Ejercicios y Problemas para Reforzar Conceptos |
 | Semana 3-4        |                 |      |                       |
 | Martes            | 18:00 - 19:00   | React Básico - Componentes, Estado, Props | Creación de Componentes, Manejo del Estado, Propagación de Props |
